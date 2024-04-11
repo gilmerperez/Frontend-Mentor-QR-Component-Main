@@ -1,0 +1,1 @@
+# Frontend-Mentor-QR-Component-Main
